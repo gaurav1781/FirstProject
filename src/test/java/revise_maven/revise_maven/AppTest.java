@@ -33,7 +33,7 @@ public class AppTest {
 	@AfterTest()
 	public void endtest() throws InterruptedException
 	{
-		driver.wait(10);
+		//driver.wait(10);
 		driver.quit();
 	}
 	
