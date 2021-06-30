@@ -25,10 +25,10 @@ public class AppTest {
 	  public void f1() 
 	  {
 		driver.findElement(By.xpath("//*[@id=\"divSearch\"]/a[3]")).click();
-		driver.findElement(By.xpath("//*[@id=\"txtuid\"]")).sendKeys("Hi");
-		driver.findElement(By.xpath("//*[@id=\"txtPass\"]")).sendKeys("Hi");
-		driver.findElement(By.xpath("//*[@id=\"txtDOB\"]")).sendKeys("AOFPP");
-		driver.findElement(By.xpath("//*[@id=\"btnlogin\"]")).click();
+		//driver.findElement(By.xpath("//*[@id=\"txtuid\"]")).sendKeys("Hi");
+		//driver.findElement(By.xpath("//*[@id=\"txtPass\"]")).sendKeys("Hi");
+		//driver.findElement(By.xpath("//*[@id=\"txtDOB\"]")).sendKeys("AOFPP");
+		//driver.findElement(By.xpath("//*[@id=\"btnlogin\"]")).click();
 	  }
 	@AfterTest()
 	public void endtest() throws InterruptedException

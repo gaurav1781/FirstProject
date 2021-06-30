@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="revise_maven.revise_maven.AppTest" duration-ms="8394" started-at="2021-05-11T22:06:04 AEST" finished-at="2021-05-11T22:06:12 AEST">
+  <suite name="revise_maven.revise_maven.AppTest" duration-ms="9292" started-at="2021-06-28T23:06:02 AEST" finished-at="2021-06-28T23:06:11 AEST">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="8394" started-at="2021-05-11T22:06:04 AEST" finished-at="2021-05-11T22:06:12 AEST">
+    <test name="Command line test" duration-ms="9292" started-at="2021-06-28T23:06:02 AEST" finished-at="2021-06-28T23:06:11 AEST">
       <class name="revise_maven.revise_maven.AppTest">
-        <test-method status="PASS" signature="setURL()[pri:0, instance:revise_maven.revise_maven.AppTest@4501b7af]" name="setURL" is-config="true" duration-ms="4806" started-at="2021-05-11T22:06:04 AEST" finished-at="2021-05-11T22:06:08 AEST">
+        <test-method status="PASS" signature="setURL()[pri:0, instance:revise_maven.revise_maven.AppTest@4501b7af]" name="setURL" is-config="true" duration-ms="5628" started-at="2021-06-28T23:06:02 AEST" finished-at="2021-06-28T23:06:07 AEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setURL -->
-        <test-method status="PASS" signature="f1()[pri:0, instance:revise_maven.revise_maven.AppTest@4501b7af]" name="f1" duration-ms="2210" started-at="2021-05-11T22:06:08 AEST" finished-at="2021-05-11T22:06:11 AEST">
+        <test-method status="PASS" signature="f1()[pri:0, instance:revise_maven.revise_maven.AppTest@4501b7af]" name="f1" duration-ms="2211" started-at="2021-06-28T23:06:07 AEST" finished-at="2021-06-28T23:06:10 AEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f1 -->
-        <test-method status="PASS" signature="endtest()[pri:0, instance:revise_maven.revise_maven.AppTest@4501b7af]" name="endtest" is-config="true" duration-ms="1323" started-at="2021-05-11T22:06:11 AEST" finished-at="2021-05-11T22:06:12 AEST">
+        <test-method status="PASS" signature="endtest()[pri:0, instance:revise_maven.revise_maven.AppTest@4501b7af]" name="endtest" is-config="true" duration-ms="1380" started-at="2021-06-28T23:06:10 AEST" finished-at="2021-06-28T23:06:11 AEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endtest -->
